@@ -2,7 +2,7 @@
 # guaitaMón
 
 <p align="center">
-<img src="https://img.shields.io/badge/versi%C3%B3-1.5-C6FF00?style=for-the-badge&labelColor=0b0d07" alt="v1.5">
+<img src="https://img.shields.io/badge/versi%C3%B3-1.6-C6FF00?style=for-the-badge&labelColor=0b0d07" alt="v1.6">
 <img src="https://img.shields.io/badge/llic%C3%A8ncia-AGPL--3.0--only-FF2ECC?style=for-the-badge&labelColor=0b0d07" alt="AGPL-3.0-only">
 <img src="https://img.shields.io/badge/offline-0%20CDN-00E5FF?style=for-the-badge&labelColor=0b0d07" alt="offline">
 </p>
